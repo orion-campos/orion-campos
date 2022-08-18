@@ -1,60 +1,101 @@
 ## ORION CAMPOS
 ### ABOUT
 
-### SOCIAL MEDIA
+### CONTACTS
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](http://www.orioncampos.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orioncampos/)
 [![Issuu](https://img.shields.io/badge/Issuu-F36D5D?style=for-the-badge&logo=issuu&logoColor=white)](https://issuu.com/orioncampos)
 [![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/orioncampos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orioncampos/)
 
-### Skills
-#### 2D/3D:
-[![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=Rhinoceros-functions&logoColor=white)](http://www.orioncampos.com/)
-[![Rhinoceros](https://img.shields.io/badge/Rhinoceros1-801010?style=for-the-badge&logo=simple-icons-functions&logoColor=white)](http://www.orioncampos.com/)
-#### BIM:
-[![Revit](https://img.shields.io/badge/Revit-0062AD?style=for-the-badge&logo=revit-functions&logoColor=white)](https://www.autodesk.com.br/)
-
-
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/renatogcruz/python)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/renatogcruz/R)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/renatogcruz/c_sharp)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/renatogcruz/javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-[![Grasshopper3d](https://img.shields.io/badge/Grasshopper-239120?style=for-the-badge&logo=grasshopper&logoColor=white)](https://www.grasshopper3d.com/)
-[![Dynamo](https://img.shields.io/badge/Dynamo-007ACC?style=for-the-badge&logo=dynamo&logoColor=white)](https://dynamobim.org/)
-[![Sverchok](https://img.shields.io/badge/Sverchok-CC6699?style=for-the-badge&logo=sverchok&logoColor=white)](https://github.com/nortikin/sverchok)
+### SKILLS
+CODING:
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](http://www.orioncampos.com/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](http://www.orioncampos.com/)
+[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](http://www.orioncampos.com/)
+<br>
+2D/3D MODELING:
+[![Rhinoceros](https://img.shields.io/badge/Rhinoceros%203D-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD%202D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](http://www.orioncampos.com/)
+[![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=SketchUp&logoColor=white)](http://www.orioncampos.com/)
+[![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](http://www.orioncampos.com/)
+<br>
+PARAMETRIC:
+[![Grasshopper](https://img.shields.io/badge/Grasshopper%203D-342B029?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![Python for Grasshopper](https://img.shields.io/badge/Python%20for%20Grasshopper-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](http://www.orioncampos.com/)
+[![GenerativeComponents](https://img.shields.io/badge/Generative%20Components-239120?style=for-the-badge&logo=generative&logoColor=white)](https://www.bentley.com/en/products/product-line/modeling-and-visualization-software/generativecomponents)
+<br>
+BIM:
+[![Revit](https://img.shields.io/badge/Revit-0062AD?style=for-the-badge&logo=autodesk&logoColor=white)](http://www.orioncampos.com/)
+<br>
+RENDERING:
+[![VRayRhino](https://img.shields.io/badge/VRay%20for%20Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![VRaySketchup](https://img.shields.io/badge/VRay%20for%20Sketchup-005F9E?style=for-the-badge&logo=SketchUp&logoColor=white)](http://www.orioncampos.com/)
+[![Lumion](https://img.shields.io/badge/Lumion-7682af?style=for-the-badge&logo=Lumion&logoColor=white)](https://lumion.com/)
+<br>
+DIGITAL FABRICATION:
+[![Cura](https://img.shields.io/badge/Ultimaker%20Cura-2986cc?style=for-the-badge&logo=Cura&logoColor=white)](https://ultimaker.com/software/ultimaker-cura)
+[![RhinoCAM](https://img.shields.io/badge/RhinoCAM-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![Slic3r](https://img.shields.io/badge/Slic3r-afce00?style=for-the-badge&logo=Slic3r&logoColor=white)](https://slic3r.org/)
+[![Meshmixer](https://img.shields.io/badge/Autodesk%20Meshmixer-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.meshmixer.com/)
+[![Eagle](https://img.shields.io/badge/Eagle%20CAD-f89829?style=for-the-badge&logo=autodesk&logoColor=white)](http://eagle.autodesk.com/)
+[![Makerbotprint](https://img.shields.io/badge/MakerBot%20Print-FF1E0D?style=for-the-badge&logo=MakerBot&logoColor=white)](http://www.orioncampos.com/)
+[![Kuka](https://img.shields.io/badge/Kuka-ff5800?style=for-the-badge&logo=kuka&logoColor=white)](http://www.orioncampos.com/)
+<br>
+VIRTUAL REALITY:
+[![Fologram](https://img.shields.io/badge/Fologram-9400d3?style=for-the-badge&logo=fologram&logoColor=white)](https://fologram.com/)
+[![Hololens](https://img.shields.io/badge/Hololens-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/hololens)
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://vimeo.com/orioncampos)
+<br>
+ELECTRONICS:
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](http://www.orioncampos.com/)
+[![Fritzing](https://img.shields.io/badge/Fritzing-ff3800?style=for-the-badge&logo=Fritzing&logoColor=white)](http://www.orioncampos.com/)
+[![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](http://www.orioncampos.com/)
+<br>
+GRAPHICS:
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/)
 [![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-[![FreeCAD](https://img.shields.io/badge/FreeCAD-D24939?style=for-the-badge&logo=freecad&logoColor=white)](https://www.freecadweb.org/)
+<br>
 
-[![Tekla Struture](https://img.shields.io/badge/TeklaStructures-00A1E0?style=for-the-badge&logo=Tekla&logoColor=white)](https://teklastructures.support.tekla.com/video-tutorials/pt-pt/steel-basics)
-![QGis](https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
-
-### `Free software` 💚
+### CODING SKILLS
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](http://www.orioncampos.com/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](http://www.orioncampos.com/)
+[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](http://www.orioncampos.com/)
+### COMPUTATION DESIGN/DIGITAL FABRICATION SKILLS
+[![Grasshopper](https://img.shields.io/badge/Grasshopper%203D-342B029?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![Python for Grasshopper](https://img.shields.io/badge/Python%20for%20Grasshopper-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](http://www.orioncampos.com/)
+[![GenerativeComponents](https://img.shields.io/badge/Generative%20Components-239120?style=for-the-badge&logo=generative&logoColor=white)](https://www.bentley.com/en/products/product-line/modeling-and-visualization-software/generativecomponents)
+[![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)](http://www.orioncampos.com/)
+[![Fologram](https://img.shields.io/badge/Fologram-9400d3?style=for-the-badge&logo=fologram&logoColor=white)](https://fologram.com/)
+[![Hololens](https://img.shields.io/badge/Hololens-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/hololens)
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://vimeo.com/orioncampos)
+[![Cura](https://img.shields.io/badge/Ultimaker%20Cura-2986cc?style=for-the-badge&logo=Cura&logoColor=white)](https://ultimaker.com/software/ultimaker-cura)
+[![RhinoCAM](https://img.shields.io/badge/RhinoCAM-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![Slic3r](https://img.shields.io/badge/Slic3r-afce00?style=for-the-badge&logo=Slic3r&logoColor=white)](https://slic3r.org/)
+[![Meshmixer](https://img.shields.io/badge/Autodesk%20Meshmixer-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.meshmixer.com/)
+[![Eagle](https://img.shields.io/badge/Eagle%20CAD-f89829?style=for-the-badge&logo=autodesk&logoColor=white)](http://eagle.autodesk.com/)
+[![Makerbotprint](https://img.shields.io/badge/MakerBot%20Print-FF1E0D?style=for-the-badge&logo=MakerBot&logoColor=white)](http://www.orioncampos.com/)
+[![Kuka](https://img.shields.io/badge/Kuka-ff5800?style=for-the-badge&logo=kuka&logoColor=white)](http://www.orioncampos.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](http://www.orioncampos.com/)
+[![Fritzing](https://img.shields.io/badge/Fritzing-ff3800?style=for-the-badge&logo=Fritzing&logoColor=white)](http://www.orioncampos.com/)
+[![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](http://www.orioncampos.com/)
+### ARCHITECTURE SKILLS
+[![Rhinoceros](https://img.shields.io/badge/Rhinoceros%203D-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD%202D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](http://www.orioncampos.com/)
+[![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=SketchUp&logoColor=white)](http://www.orioncampos.com/)
+[![Maya](https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](http://www.orioncampos.com/)
+[![Revit](https://img.shields.io/badge/Revit-0062AD?style=for-the-badge&logo=autodesk&logoColor=white)](http://www.orioncampos.com/)
+[![VRayRhino](https://img.shields.io/badge/VRay%20for%20Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![VRaySketchup](https://img.shields.io/badge/VRay%20for%20Sketchup-005F9E?style=for-the-badge&logo=SketchUp&logoColor=white)](http://www.orioncampos.com/)
+[![Lumion](https://img.shields.io/badge/Lumion-7682af?style=for-the-badge&logo=Lumion&logoColor=white)](https://lumion.com/)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Indesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/)
+[![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.openoffice.org/)
+[![Open Office](https://img.shields.io/badge/Open%20Office-0E85CD?style=for-the-badge&logo=apacheopenoffice&logoColor=white)](https://www.openoffice.org/)
+<br>
