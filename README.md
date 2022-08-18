@@ -1,10 +1,10 @@
 ## ORION CAMPOS
 ### ABOUT
-I am a Master Architect in Advanced Architecture by the Institute of Advanced Architecture of Catalonia in the Interactive Architecture field.<br>
+Master Architect by the Institute of Advanced Architecture of Catalonia in Barcelona, Spain at the Interactive Architecture field.<br>
 For more than 12 years I’ve worked as an architect and designer in all phases of an architectural project.<br>
 From concept to execution, I’ve worked in Sao Paulo (Brazil), Barcelona (Spain) and Bangkok (Thailand).<br>
 For the last 10 years I’ve professionally used Parametric Softwares and Digital Fabrication tools.<br>
-My other interests include coding and electronics, which lead me to teach, for the past years, students in workshops in Brazil, Spain, Norway, Thailand, Philippines and Israel.<br>
+My interests include coding and electronics, which lead me to teach for the past years Arduino and Grasshopper, students in workshops in Brazil, Spain, Norway, Thailand, Philippines and Israel.<br>
 
 ### SOCIAL MEDIA
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](http://www.orioncampos.com/)
@@ -54,18 +54,11 @@ My other interests include coding and electronics, which lead me to teach, for t
 
 ## ORION CAMPOS
 ### ABOUT
-I am a Master Architect in Advanced Architecture by the Institute of Advanced Architecture of Catalonia in the Interactive Architecture field.<br>
-For more than 12 years I’ve worked as an architect and designer in all phases of an architectural project.<br>
-From concept to execution, I’ve worked in Sao Paulo (Brazil), Barcelona (Spain) and Bangkok (Thailand).<br>
+Born in Brazil, I am a Master Architect by the Institute of Advanced Architecture of Catalonia in Barcelona, Spain at the Interactive Architecture research area.<br>
+For more than 12 years I’ve worked as an architect and designer in all phases of an architectural project, and from concept to execution, I’ve worked in Sao Paulo (Brazil), Barcelona (Spain) and Bangkok (Thailand).<br>
 For the last 10 years I’ve professionally used Parametric Softwares and Digital Fabrication tools.<br>
-My other interests include coding and electronics, which lead me to teach, for the past years, students in workshops in Brazil, Spain, Norway, Thailand, Philippines and Israel.<br>
-
-### SOCIAL MEDIA
-[![Website](https://img.shields.io/badge/Website-FE5F55?style=for-the-badge&logo=wordpress&logoColor=white)](http://www.orioncampos.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FE5F55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orioncampos/)
-[![Issuu](https://img.shields.io/badge/Issuu-FE5F55?style=for-the-badge&logo=issuu&logoColor=white)](https://issuu.com/orioncampos)
-[![Vimeo](https://img.shields.io/badge/Vimeo-FE5F55?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/orioncampos)
-[![Instagram](https://img.shields.io/badge/Instagram-FE5F55?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orioncampos/)
+My interests include coding and electronics, which lead me to work developing functioning prototypes with Arduino in Spain, and to teach Arduino and Grasshopper for the past years students in workshops in Brazil, Spain, Norway, Thailand, Philippines and Israel.<br>
+Currently expanding my knowledge in coding and computer science.<br>
 
 ### SKILLS
 [![HTML5](https://img.shields.io/badge/HTML5-004649?style=for-the-badge&logo=html5&logoColor=white)](http://www.orioncampos.com/)
@@ -105,3 +98,11 @@ My other interests include coding and electronics, which lead me to teach, for t
 [![Gimp](https://img.shields.io/badge/gimp-7A9E9F?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-7A9E9F?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.openoffice.org/)
 [![Open Office](https://img.shields.io/badge/Open%20Office-7A9E9F?style=for-the-badge&logo=apacheopenoffice&logoColor=white)](https://www.openoffice.org/)
+
+### CONTACT
+[![email](https://img.shields.io/badge/Email-FE5F55?style=for-the-badge&logo=protonmail&logoColor=white)](oriongmc@hotmail.com)
+[![Website](https://img.shields.io/badge/Website-FE5F55?style=for-the-badge&logo=wordpress&logoColor=white)](http://www.orioncampos.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FE5F55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orioncampos/)
+[![Issuu](https://img.shields.io/badge/Issuu-FE5F55?style=for-the-badge&logo=issuu&logoColor=white)](https://issuu.com/orioncampos)
+[![Vimeo](https://img.shields.io/badge/Vimeo-FE5F55?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/orioncampos)
+[![Instagram](https://img.shields.io/badge/Instagram-FE5F55?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orioncampos/)
