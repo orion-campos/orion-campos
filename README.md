@@ -2,8 +2,8 @@
 Born in Brazil, I am a Master Architect by the Institute of Advanced Architecture of Catalonia in Barcelona, Spain at the Interactive Architecture research area.<br>
 For more than 12 years I’ve worked as an architect and designer in all phases of an architectural project, and from concept to execution, I’ve worked in Sao Paulo (Brazil), Barcelona (Spain) and Bangkok (Thailand).<br>
 For the last 10 years I’ve professionally used Parametric Softwares and Digital Fabrication tools.<br>
-My interests include coding and electronics, which lead me to work developing functioning prototypes with Arduino in Spain, and to teach Arduino and Grasshopper students in workshops in Brazil, Spain, Norway, Thailand, Philippines and Israel.<br>
-Currently expanding my knowledge in coding and computer science.<br>
+My interests include coding and electronics, which lead me to work developing functional prototypes with Arduino in Spain, and to teach Arduino and Grasshopper at workshops in Brazil, Spain, Norway, Thailand, Philippines and Israel.<br>
+Currently expanding my knowledge in coding and Computer Science.<br>
 
 ## SKILLS
 [![HTML](https://img.shields.io/badge/HTML-004649?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/orion-campos/HTML)
