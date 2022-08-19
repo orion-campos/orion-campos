@@ -6,17 +6,17 @@ My interests include coding and electronics, which lead me to work developing fu
 Currently expanding my knowledge in coding and computer science.<br>
 
 ## SKILLS
-[![HTML5](https://img.shields.io/badge/HTML5-004649?style=for-the-badge&logo=html5&logoColor=white)](http://www.orioncampos.com/)
+[![HTML](https://img.shields.io/badge/HTML-004649?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/orion-campos/HTML)
 [![Python](https://img.shields.io/badge/Python-004649?style=for-the-badge&logo=python&logoColor=white)](http://www.orioncampos.com/)
 [![Visual_Studio](https://img.shields.io/badge/Visual_Studio-004649?style=for-the-badge&logo=visual%20studio&logoColor=white)](http://www.orioncampos.com/)
 <br>
-[![Grasshopper](https://img.shields.io/badge/Grasshopper%203D-00979D?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
+[![Grasshopper](https://img.shields.io/badge/Grasshopper%203D-00979D?style=for-the-badge&logo=rhinoceros&logoColor=white)](https://github.com/orion-campos/Grasshopper3D)
 [![Python for Grasshopper](https://img.shields.io/badge/Python%20for%20Grasshopper-00979D?style=for-the-badge&logo=python&logoColor=white)](http://www.orioncampos.com/)
-[![GenerativeComponents](https://img.shields.io/badge/Generative%20Components-00979D?style=for-the-badge&logo=generative&logoColor=white)](https://www.bentley.com/en/products/product-line/modeling-and-visualization-software/generativecomponents)
-[![Processing](https://img.shields.io/badge/Processing-00979D?style=for-the-badge&logo=processingfoundation&logoColor=white)](http://www.orioncampos.com/)
+[![Processing](https://img.shields.io/badge/Processing-00979D?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://github.com/orion-campos/Processing)
 [![Fologram](https://img.shields.io/badge/Fologram-00979D?style=for-the-badge&logo=fologram&logoColor=white)](https://fologram.com/)
 [![Hololens](https://img.shields.io/badge/Hololens-00979D?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/hololens)
 [![Unity](https://img.shields.io/badge/Unity-00979D?style=for-the-badge&logo=unity&logoColor=white)](https://vimeo.com/orioncampos)
+![GenerativeComponents](https://img.shields.io/badge/Generative%20Components-00979D?style=for-the-badge&logo=generative&logoColor=white)
 [![Cura](https://img.shields.io/badge/Ultimaker%20Cura-00979D?style=for-the-badge&logo=Cura&logoColor=white)](https://ultimaker.com/software/ultimaker-cura)
 [![RhinoCAM](https://img.shields.io/badge/RhinoCAM-00979D?style=for-the-badge&logo=rhinoceros&logoColor=white)](http://www.orioncampos.com/)
 [![Slic3r](https://img.shields.io/badge/Slic3r-00979D?style=for-the-badge&logo=Slic3r&logoColor=white)](https://slic3r.org/)
