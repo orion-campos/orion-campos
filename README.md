@@ -7,11 +7,10 @@ Currently expanding my knowledge in coding and Computer Science.<br>
 
 ## SKILLS
 [![HTML](https://img.shields.io/badge/HTML-004649?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/orion-campos/HTML)
-[![Python](https://img.shields.io/badge/Python-004649?style=for-the-badge&logo=python&logoColor=white)](http://www.orioncampos.com/)
-[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-004649?style=for-the-badge&logo=visual%20studio&logoColor=white)](http://www.orioncampos.com/)
+[![Python](https://img.shields.io/badge/Python-004649?style=for-the-badge&logo=python&logoColor=white)](https://github.com/orion-campos/Python)
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-004649?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br>
 [![Grasshopper](https://img.shields.io/badge/Grasshopper%203D-00979D?style=for-the-badge&logo=rhinoceros&logoColor=white)](https://github.com/orion-campos/Grasshopper3D)
-[![Python for Grasshopper](https://img.shields.io/badge/Python%20for%20Grasshopper-00979D?style=for-the-badge&logo=python&logoColor=white)](http://www.orioncampos.com/)
 [![Processing](https://img.shields.io/badge/Processing-00979D?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://github.com/orion-campos/Processing)
 ![Fologram](https://img.shields.io/badge/Fologram-00979D?style=for-the-badge&logo=fologram&logoColor=white)
 ![Hololens](https://img.shields.io/badge/Hololens-00979D?style=for-the-badge&logo=microsoft&logoColor=white)
