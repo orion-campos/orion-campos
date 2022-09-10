@@ -11,6 +11,8 @@ Currently expanding my knowledge in coding and Computer Science.<br>
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-004649?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br>
 [![Grasshopper](https://img.shields.io/badge/Grasshopper%203D-00979D?style=for-the-badge&logo=rhinoceros&logoColor=white)](https://github.com/orion-campos/Grasshopper3D)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/orion-campos/Touch_Media)
+[![PythonGrasshopper](https://img.shields.io/badge/Python%20for%20Grasshopper-00979D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/orion-campos/Grasshopper3D/tree/main/python)
 [![Processing](https://img.shields.io/badge/Processing-00979D?style=for-the-badge&logo=processingfoundation&logoColor=white)](https://github.com/orion-campos/Processing)
 ![Fologram](https://img.shields.io/badge/Fologram-00979D?style=for-the-badge&logo=fologram&logoColor=white)
 ![Hololens](https://img.shields.io/badge/Hololens-00979D?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -23,7 +25,6 @@ Currently expanding my knowledge in coding and Computer Science.<br>
 [![Eagle](https://img.shields.io/badge/Eagle%20CAD-00979D?style=for-the-badge&logo=autodesk&logoColor=white)](https://github.com/orion-campos/Touch_Media)
 ![Makerbotprint](https://img.shields.io/badge/MakerBot%20Print-00979D?style=for-the-badge&logo=MakerBot&logoColor=white)
 [![Kuka](https://img.shields.io/badge/Kuka-00979D?style=for-the-badge&logo=kuka&logoColor=white)](http://www.orioncampos.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/orion-campos/Touch_Media)
 [![Fritzing](https://img.shields.io/badge/Fritzing-00979D?style=for-the-badge&logo=Fritzing&logoColor=white)](https://github.com/orion-campos/Touch_Media)
 [![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-00979D?style=for-the-badge&logo=raspberrypi&logoColor=white)](http://www.orioncampos.com/)
 <br>
